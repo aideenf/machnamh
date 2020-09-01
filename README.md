@@ -1,5 +1,15 @@
 # machnamh
+install alpha version from pipy
+https://test.pypi.org/project/machnamh-unmakingyou/
 
-The readme has yet to be created. I can use
+using command:
+pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou
+
+or
+for a specific release number use:
+pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou==0.0.10
+
+
+
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write the content later
+
