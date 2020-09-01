@@ -1,6 +1,4 @@
 <img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/small_logo.png" alt="alt text" class="center" width="400" height="400" >
-
-
 # Machnamh -  A Machine Learning Toolkit 
 ## For Reflecting Upon And Auditing Fairness: in Training Data, Model Output and Ranking
 
@@ -68,3 +66,5 @@ This worldview postulates that social and environmental factors, such as family 
 *It is imperative to become familiar with these two worldview definitions before using the tool. Gaps in understanding of the ethical implications of poorly considered machine learning models which rank humans can have severe consequences for individuals as well as for groups and entire societies. 
 
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+
+<img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/Screenshot_2020-08-31 machnamh_step_one_review_prepare_data - Jupyter Notebook(1).png" alt="alt text" class="center">
