@@ -1,4 +1,5 @@
 <img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/small_logo.png" alt="alt text" class="center" width="400" height="400" >
+
 # Machnamh -  A Machine Learning Toolkit 
 ## For Reflecting Upon And Auditing Fairness: in Training Data, Model Output and Ranking
 
