@@ -1,10 +1,17 @@
-# Machnamh -  The Bias and Fairness Audit Toolkit
+# Machnamh -  A Machine Learning Toolkit For Reflecting Upon And Auditing Fairness in Ranking
 
-Machnamh is an open-source bias audit toolkit for data scientists, machine learning researchers, software engineers, and policymakers at all levels of an organization which will produce machine learning models that will have either positive or negative consequences on the real life outcomes of human beings!
+In machine learning, a given model is generally thought of as fair, if its results are independent of those human traits considered to be protected(such as race, age, gender, ethnicity, sexual orientation, disability etc). 
 
-Machnamhs' primary purpose is to facilitate reflection and audit on the data used for the trainig of machine learning models for the purpose of identifying discrimination and bias
+Machnamh is an open-source bias audit toolkit for data scientists, machine learning researchers, software engineers, policymakers and stakeholders at all levels within any organization which produces machine learning models that will have positive or negative consequences on the real life outcomes of humans.
 
-and to make informed and equitable decisions around developing and deploying predictive tools.
+Machnamhs' primary purpose is to facilitate reflection upon, and further, to produce a report about, the data that is intended to be used to train a machine learning model. The objective being to bridge the gap between what a data scientest or software developer detects in the data and the understanding and accountability that is necessary from all stakeholders. Based upon the data analysis toolkit and the reflection prompted and facilitated by the framework, the generated report will flag any potential for discrimination and bias and may act as the basis for conversation between stakeholders in order to discuss findings and make informed and equitable decisions as to the worldview they believe a predictive model should or will reflect.
+
+The toolkit further integrates: 
+* Several features from Aequitas Bias and Fairness Audit Toolkit https://github.com/dssg/aequitas
+* Several features from SHAP (SHapley Additive exPlanations) which is a game theoretic approach to explain the output of any machine learning model. https://github.com/slundberg/shap
+* Several fairness in ranking algorithms, including FA*IR
+
+These multiple integrations facilitates the detection of bias or unfairness at several points in the machine learning pipeline, with minimum coding effort due to the user interface poweres by ipyWidgets, which allows for the upload and analysis of any data in .csv format. 
 
 ## Machnamh installation via pip
 Install alpha version from PyPI
