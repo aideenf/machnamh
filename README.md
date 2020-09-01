@@ -1,4 +1,12 @@
-# Machnamh installation via pip
+# Machnamh -  The Bias and Fairness Audit Toolkit
+
+Machnamh is an open-source bias audit toolkit for data scientists, machine learning researchers, software engineers, and policymakers at all levels of an organization which will produce machine learning models that will have either positive or negative consequences on the real life outcomes of human beings!
+
+Machnamhs' primary purpose is to facilitate reflection and audit on the data used for the trainig of machine learning models for the purpose of identifying discrimination and bias
+
+and to make informed and equitable decisions around developing and deploying predictive tools.
+
+## Machnamh installation via pip
 Install alpha version from PyPI
 https://test.pypi.org/project/machnamh-unmakingyou/
 
@@ -8,7 +16,7 @@ pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou
 or for a specific release number use:
 pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou==0.0.10
 
-# Using the library
+## Using the library
 See the Machnamh/demo_jupyter_notebooks/ folder for sample code which utilises the library for 3 steps in fairness review process.
 
 ### 1. Machnamh/demo_jupyter_notebooks/machnamh_step_one_review_prepare_data.ipynb
@@ -33,7 +41,7 @@ This notebook shows:
 This sample notebook has yet to be added.
 
 
-# Machnamh objectives
+## Machnamh objectives
 Fairness as a philosophy has no objective definition, and as such there is no consensus on a mathematical formulation for fairness. When training a Machine learning model to predict an outcome and hence influence decisions that will have positive or negative conseqnence for a person or group it is necessary to reflect on the worldview or philosophy of fairness that the model will reflect. The design and functionality of a machine learning model will likely reflect the worldview and values of those responsible for delivering the model. Machnamh may be used for reflecting upon the risk of introducing prejudice during the creation of a supervised machine learning applications for predictive modeling. The framework has been developed with a specific focus on those models which rank humans and supports either continuous numeric or binary predictions. Reflections prompted by this tool may require discussion, collaboration and agreement amongst various stakeholders within the business including relevant domain experts. Answers provided will form part of a report which will reflect the organization’s core values and worldview in relation to fairness. The report will provide a reference point for discussions between the producer and the consumer of the model with respect to the potential for these worldviews and values to be reflected in the models output. Would the historic decisions have differed, or would representation of a particular group be different in the data if discrimination was not occuring in the present, or had discrimination not occured in the past.
 
 Worldview: In the context of this framework a "Worldview" is a set of assumptions about a physical and social reality pertaining to a human feature or attribute, or to the measurement of same. As context must be taken into consideration there is no one fundamentally correct worldview but rather a reflection of a particular philosophy of life, or a conception of the world, as it relates to each of an individuals' apparently quantifiable features or attributes. In the case of this framework, the focus is, in particular, on the worldview held concerning any disparities in features or attributes that might be detected across groups within protected features such as race, gender, age etc. A disparity may, for example, refer to a non-proportionate representation or a significant difference in distribution.
