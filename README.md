@@ -1,4 +1,4 @@
-<img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/machnamh.PNG" alt="alt text" class="center" width="400" height="400" >
+<img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/small_logo.png" alt="alt text" class="center" width="400" height="400" >
 
 
 # Machnamh -  A Machine Learning Toolkit 
