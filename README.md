@@ -32,8 +32,6 @@ This notebook shows:
 ### 3. Machnamh/demo_jupyter_notebooks/
 This sample notebook has yet to be added.
 
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
 
 # Machnamh objectives
 Fairness as a philosophy has no objective definition, and as such there is no consensus on a mathematical formulation for fairness. When training a Machine learning model to predict an outcome and hence influence decisions that will have positive or negative conseqnence for a person or group it is necessary to reflect on the worldview or philosophy of fairness that the model will reflect. The design and functionality of a machine learning model will likely reflect the worldview and values of those responsible for delivering the model. Machnamh may be used for reflecting upon the risk of introducing prejudice during the creation of a supervised machine learning applications for predictive modeling. The framework has been developed with a specific focus on those models which rank humans and supports either continuous numeric or binary predictions. Reflections prompted by this tool may require discussion, collaboration and agreement amongst various stakeholders within the business including relevant domain experts. Answers provided will form part of a report which will reflect the organization’s core values and worldview in relation to fairness. The report will provide a reference point for discussions between the producer and the consumer of the model with respect to the potential for these worldviews and values to be reflected in the models output. Would the historic decisions have differed, or would representation of a particular group be different in the data if discrimination was not occuring in the present, or had discrimination not occured in the past.
@@ -49,3 +47,4 @@ This worldview postulates that social and environmental factors, such as family 
 
 *It is imperative to become familiar with these two worldview definitions before using the tool. Gaps in understanding of the ethical implications of poorly considered machine learning models which rank humans can have severe consequences for individuals as well as for groups and entire societies. 
 
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
