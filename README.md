@@ -19,8 +19,7 @@ from machnamh import pre_process as mpp
 dpUI = mpp.data_pre_process_UI()
 dpUI.render(use_demo_data = True)
 ```
-setting 'use_demo_data' = True will load the law_school.csv dataset along with an overview of this data and some questions one might ask if it were to be used to train a machine learning model.
-
+Setting ```use_demo_data = True``` will load the law_school.csv dataset along with an overview of this data and some questions one might ask if this data were to be considered for the purpose of training a machine learning model
 ### 2. Machnamh/demo_jupyter_notebooks/
 
 ### 3. Machnamh/demo_jupyter_notebooks/
