@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/aideenf/machnamh/blob/master/machnamh/data/machnamh.PNG)
 # Machnamh -  A Machine Learning Toolkit For Reflecting Upon And Auditing Fairness in Training Data, Model Output and Ranking
 
 In machine learning, a given model is generally thought of as fair, if its results are independent of those human traits considered to be protected(such as race, age, gender, ethnicity, sexual orientation, disability etc). 
