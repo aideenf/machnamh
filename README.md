@@ -1,6 +1,8 @@
-<img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/machnamh.PNG" alt="alt text" width="200" height="200">
+<img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/machnamh.PNG" alt="alt text" class="center" width="400" height="400" >
 
-# Machnamh -  A Machine Learning Toolkit For Reflecting Upon And Auditing Fairness in Training Data, Model Output and Ranking
+
+# Machnamh -  A Machine Learning Toolkit 
+## For Reflecting Upon And Auditing Fairness in Training Data, Model Output and Ranking
 
 In machine learning, a given model is generally thought of as fair, if its results are independent of those human traits considered to be protected(such as race, age, gender, ethnicity, sexual orientation, disability etc). 
 
