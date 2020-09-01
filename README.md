@@ -1,8 +1,8 @@
 # Machnamh installation via pip
-Install alpha version from pipy
+Install alpha version from PyPI
 https://test.pypi.org/project/machnamh-unmakingyou/
 
-Using command:
+Using pip command:
 pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou
 
 or for a specific release number use:
