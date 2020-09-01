@@ -9,7 +9,8 @@ Machnamhs' primary purpose is to facilitate reflection upon, and further, to pro
 The toolkit further integrates: 
 * Several features from Aequitas Bias and Fairness Audit Toolkit https://github.com/dssg/aequitas
 * Several features from SHAP (SHapley Additive exPlanations) which is a game theoretic approach to explain the output of any machine learning model. https://github.com/slundberg/shap
-* Several fairness in ranking algorithms, including FA*IR
+* Several fairness in ranking algorithms, including FA*IR https://github.com/fair-search/fairsearch-fair-python
+
 
 These multiple integrations facilitates the detection of bias or unfairness at several points in the machine learning pipeline, with minimum coding effort due to the user interface poweres by ipyWidgets, which allows for the upload and analysis of any data in .csv format. 
 
