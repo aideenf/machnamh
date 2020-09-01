@@ -23,11 +23,11 @@ Setting ```use_demo_data = True``` will load the law_school.csv dataset along wi
 
 ### 2. Machnamh/demo_jupyter_notebooks/machnamh_step_two_train_model_analyse_output.ipynb
 This notebook shows:
-1. Reloading the transformed data and data_summary created in step 1 using Machnamh functions
-2. Creating a Machine learning model of your choice with the transformed data, in the sample we have used Logistic Regression which is then ranked/ordered according to the probability of having an output class of 1. 
-3. Using Machnamh function to invoke a UX which uses the Aequitas API to audit fairness across protected groups
-4. Using Machnamh function to invoke a UX which uses the SHAP library for explainability. 
-5. Save the ranked list so that it may be processed in sample notebook 3.
+* Reloading the transformed data and data_summary created in step 1 using Machnamh functions
+* Creating a Machine learning model of your choice with the transformed data, in the sample we have used Logistic Regression which is then ranked/ordered according to the probability of having an output class of 1. 
+* Using Machnamh function to invoke a UX which uses the Aequitas API to audit fairness across protected groups
+* Using Machnamh function to invoke a UX which uses the SHAP library for explainability. 
+* Save the ranked list so that it may be processed in sample notebook 3.
 
 ### 3. Machnamh/demo_jupyter_notebooks/
 This sample notebook has yet to be added.
