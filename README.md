@@ -68,4 +68,17 @@ This worldview postulates that social and environmental factors, such as family 
 
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
+## Example UX view for step 1
+
 <img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/machnamh_step_one_review_prepare_data .png" alt="alt text" class="center">
+
+## Example report generated from for step 1
+This report can be used as a basis for a colaborative discussion with all stakeholders in order to reach conclusions based on 
+
+## Example output from Aequitas integration
+
+## Example output from Shap integration
+
+## Example output from Ranking analysis
+
+
