@@ -68,4 +68,4 @@ This worldview postulates that social and environmental factors, such as family 
 
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-<img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/Screenshot_2020-08-31 machnamh_step_one_review_prepare_data - Jupyter Notebook(1).png" alt="alt text" class="center">
+<img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/machnamh_step_one_review_prepare_data .png" alt="alt text" class="center">
