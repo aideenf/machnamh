@@ -18,14 +18,19 @@ The toolkit further integrates:
 These multiple integrations facilitates the detection of bias or unfairness at several points in the machine learning pipeline, with minimum coding effort due to the user interface poweres by ipyWidgets, which allows for the upload and analysis of any data in .csv format. 
 
 ## Machnamh installation via pip
-Install alpha version from PyPI
+Install alpha version from PyPI:
+```
 https://test.pypi.org/project/machnamh-unmakingyou/
-
+```
 Using pip command:
+```
 pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou
+```
 
 or for a specific release number use:
-pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou==0.0.10
+```
+pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou==0.0.15
+```
 
 ## Using the library
 See the Machnamh/demo_jupyter_notebooks/ folder for sample code which utilises the library for 3 steps in fairness review process.
