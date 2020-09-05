@@ -20,16 +20,16 @@ These multiple integrations facilitates the detection of bias or unfairness at s
 ## Machnamh installation via pip
 Install alpha version from PyPI:
 ```
-https://test.pypi.org/project/machnamh-unmakingyou/
+https://pypi.org/project/machnamh/
 ```
 Using pip command:
 ```
-pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou
+pip install machnamh
 ```
 
 or for a specific release number use:
 ```
-pip install -i https://test.pypi.org/simple/ machnamh-unmakingyou==0.0.15
+pip install machnamh==0.0.1
 ```
 
 ## Using the library
