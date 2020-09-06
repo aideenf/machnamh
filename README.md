@@ -80,11 +80,15 @@ This worldview postulates that social and environmental factors, such as family 
 ## Example report generated from for step 1
 This report can be used as a basis for a colaborative discussion with all stakeholders in order to reach conclusions based on 
 
-## Example output from Aequitas and Shap integration 
-Including Aequitas worldview report for four group fairness axioms
+## Example UX output from  step 2 (Aequitas and Shap)
+Including Machnamh  "worldview" report on four group fairness axioms
+* Proportional Parity
+* Demographic Parity
+* Equality of Oppertunity
+* Equality of Outcome
 <img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/sample_notebook2_out.png" alt="alt text" class="center">
 
-## Example output from Shap integration
+
 
 ## Example output from Ranking analysis
 
