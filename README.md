@@ -1,9 +1,9 @@
 <img src="https://github.com/aideenf/machnamh/blob/master/machnamh/data/small_logo.png" alt="alt text" class="center" width="400" height="400" >
 
 # Machnamh -  A Machine Learning Toolkit 
-## For Reflecting Upon And Auditing Fairness: in Training Data, Model Output and Ranking
+## For auditing fairness and facilitating reflective analysis of training data, model output and rankings
 
-In machine learning, a given model is generally thought of as fair, if its results are independent of those human traits considered to be protected(such as race, age, gender, ethnicity, sexual orientation, disability etc). 
+In machine learning a given model is generally thought of as fair if its results are independent of those human traits considered to be protected(such as race, age, gender, ethnicity, sexual orientation, disability etc). 
 
 Machnamh is an open-source bias audit toolkit for data scientists, machine learning researchers, software engineers, policymakers and stakeholders at all levels. Designed to be used by any organization involved in the production of machine learning models which have positive or negative consequences on the real life outcomes of humans.
 
