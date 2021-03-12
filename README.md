@@ -5,9 +5,14 @@
 
 In machine learning, a given model is generally thought of as fair, if its results are independent of those human traits considered to be protected(such as race, age, gender, ethnicity, sexual orientation, disability etc). 
 
-Machnamh is an open-source bias audit toolkit for data scientists, machine learning researchers, software engineers, policymakers and stakeholders at all levels within any organization which produces machine learning models that will have positive or negative consequences on the real life outcomes of humans.
+Machnamh is an open-source bias audit toolkit for data scientists, machine learning researchers, software engineers, policymakers and stakeholders at all levels. Designed to be used by any organization involved in the production of machine learning models which have positive or negative consequences on the real life outcomes of humans.
 
-Machnamhs' primary purpose is to facilitate reflection upon, and further, to produce a report about, the data that is intended to be used to train a machine learning model, the model Output and any rankings driven by the output. The objective being to bridge the gap between what a data scientest or software developer detects in the data and the understanding and accountability that is necessary from all stakeholders. Based upon the data analysis toolkit and the reflection prompted and facilitated by the framework, the generated report will flag any potential for discrimination and bias and may act as the basis for conversation between stakeholders in order to discuss findings and make informed and equitable decisions as to the worldview they believe a predictive model should or will reflect.
+The primary purpose of Machnamh is to facilitate a reflection on:
+  * The data that is intended to be used to train a machine learning model.
+  * The model Output
+  * Any rankings derived from the output. 
+  
+A report is generated with the objective of bridging the gap between the 'technical speak' of a data scientest or software developer and a natural language more familiar to those stakeholders within the organisation who are ultimately accountable for algorithmic outcomes. The generated report will flag any potential for discrimination and bias and act as the basis for conversation between stakeholders who wish to make informed and equitable decisions as to the worldview they believe a predictive model should reflect.
 
 The toolkit further integrates: 
 * Several features from Aequitas Bias and Fairness Audit Toolkit https://github.com/dssg/aequitas
