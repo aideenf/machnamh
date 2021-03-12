@@ -7,12 +7,12 @@ In machine learning a given model is generally thought of as fair if its results
 
 Machnamh is an open-source bias audit toolkit for data scientists, machine learning researchers, software engineers, policymakers and stakeholders at all levels. Designed to be used by any organization involved in the production of machine learning models which have positive or negative consequences on the real life outcomes of humans.
 
-The primary purpose of Machnamh is to facilitate a reflection on:
+The primary purpose of Machnamh is to facilitate a reflective analysis of:
   * The data that is intended to be used to train a machine learning model.
   * The model Output
   * Any rankings derived from the output. 
   
-A report is generated with the objective of bridging the gap between the 'technical speak' of a data scientest or software developer and a natural language more familiar to those stakeholders within the organisation who are ultimately accountable for algorithmic outcomes. The generated report will flag any potential for discrimination and bias and act as the basis for conversation between stakeholders who wish to make informed and equitable decisions as to the worldview they believe a predictive model should reflect.
+A report is generated with the objective of bridging the gap between the 'technical speak' of a data scientest or software developer and the natural language more familiar to those stakeholders within an organisation who are ultimately accountable for algorithmic outcomes. The generated report will flag any potential for discrimination and bias and act as the basis for conversation between stakeholders facilitating informed and equitable decisions as to the worldview reflected by the model
 
 The toolkit further integrates: 
 * Several features from Aequitas Bias and Fairness Audit Toolkit https://github.com/dssg/aequitas
@@ -20,7 +20,7 @@ The toolkit further integrates:
 * Several fairness in ranking algorithms, including FA*IR https://github.com/fair-search/fairsearch-fair-python
 
 
-These multiple integrations facilitates the detection of bias or unfairness at several points in the machine learning pipeline, with minimum coding effort due to the user interface poweres by ipyWidgets, which allows for the upload and analysis of any data in .csv format. 
+These multiple integrations facilitates the detection of bias or unfairness at several points in the machine learning pipeline. Minimum coding effort is required thanks to the ipyWidgets powered user interface which allows for the upload and analysis of any data in .csv format. 
 
 ## Machnamh installation via pip
 Install alpha version from PyPI:
