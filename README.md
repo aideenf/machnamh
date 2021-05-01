@@ -20,7 +20,7 @@ The toolkit further integrates:
 * Several fairness in ranking algorithms, including FA*IR https://github.com/fair-search/fairsearch-fair-python
 
 
-These multiple integrations facilitates the detection of bias or unfairness at several points in the machine learning pipeline. Minimum coding effort is required thanks to the ipyWidgets powered user interface which allows for the upload and analysis of any data in .csv format. 
+These multiple integrations facilitates the detection of bias or unfairness at several points in the machine learning pipeline. Using Machnamh library results in minimum coding effort thanks to the ipyWidgets powered user interface which allows for the upload and analysis of any data in .csv format. 
 
 ## Machnamh installation via pip
 Install alpha version from PyPI:
